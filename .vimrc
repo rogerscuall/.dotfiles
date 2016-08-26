@@ -16,11 +16,8 @@ Plugin 'scrooloose/nerdtree.git'
 Plugin 'Buffergator'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
-Plugin 'avakhov/vim-yaml'
 Plugin 'scrooloose/syntastic'
-Plugin 'tpope/vim-surround'
 Plugin 'chase/vim-ansible-yaml'
-Plugin 'nathanaelkane/vim-indent-guides'
 call vundle#end()
 " Now we can turn our filetype functionality back on
 filetype plugin indent on
